@@ -3,6 +3,8 @@ A utility to Tweet my most recent Pinboard additions. Plenty of solutions exist 
 
 I have no Python experience and I wrote this to get familiar with the language.
 
+![The end result.](https://www.dropbox.com/s/6w4uon5bmv7zro3/Screenshot%202016-04-21%2014.06.31.png?dl=0&raw=1)
+
 ## Setup
 
 1. Clone this repository.
